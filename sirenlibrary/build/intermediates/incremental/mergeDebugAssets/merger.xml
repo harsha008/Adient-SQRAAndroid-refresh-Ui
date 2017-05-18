@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/sirenlibrary/src/main/assets"/><source path="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/sirenlibrary/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/sirenlibrary/src/debug/assets"/></dataSet></merger>

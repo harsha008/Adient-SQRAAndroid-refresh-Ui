@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="advanced-adapters-15.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/4558ec7e39828b4c5efe4c5db7061495c5437c8b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/4558ec7e39828b4c5efe4c5db7061495c5437c8b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaysoyer.lib/advanced-adapters/15.3/a06065f2bb5c6a9b8e10c3b6dcbea2e69b686b79/advanced-adapters-15.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

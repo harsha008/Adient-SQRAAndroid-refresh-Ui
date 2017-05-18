@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshathulluri/.android/build-cache/7d58ea73d4ef6cd417f0375462f4d06fbf3889cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a83e68d20c14d4ed207669e9d7e8527e13f24ebd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshathulluri/.android/build-cache/d81d004b8de1e3d2707acbbe67dfe5f420f1e97c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="263c1c941f603469ecbaf8745f7b2d18ae85c5c0">
+        <dex dex="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97f639afc364e8fb222c868e9efd4d0d75f65341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6f7a6dde77938fcec9c66255ca398d21c51ca49f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshathulluri/.android/build-cache/e1ea7015c4a8dc6649b80439da9469cc658b52e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="844efef744581e604ea77683555271ebbd61d871">
+        <dex dex="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5019fab90486ea341e821cfb848ae274b28e737a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/libs/gson-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.2_3c076e5a92998578996399c8dfce0928ed009b9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshathulluri/.android/build-cache/a355866ce3cc982a3c853bed908a1c8e3d814176/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="823bcb877cb90eb4ecbbc050d822ff5d84bb2db2">
+        <dex dex="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aac8181ddd12ac12691a8ea84393770d39b85c3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5eac8322c7811145960c0ed3225aed0fd7b01405">
+        <dex dex="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e327b998dcd900cbb6f77d03a6bbaa6857093871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshathulluri/.android/build-cache/f2973a8bd08ca72faee1cc5dcfbd34c376cda97c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5c812ad0773ab307151802099a33575fa7bb270b">
+        <dex dex="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34fa6798af288402e683576399edc27716c9a66c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshathulluri/.android/build-cache/6e9e08c7a8bd1edc8d4ba105522b4dab1a8aa1ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8c8243677105d9c78cfbf553b55e256b3d4bea39">
+        <dex dex="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03d0f27474e3a7a37a817cdea94aaf2b6eb25071/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshathulluri/.android/build-cache/4558ec7e39828b4c5efe4c5db7061495c5437c8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6859607b69c0782f6638116faa5b4eae78a8d9f">
+        <dex dex="/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46e1ae58e0d1d45a88c05b5d37bb1fc128a5e34f/classes.dex" />
+    </item>
+
+</items>
